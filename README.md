@@ -1,4 +1,4 @@
-# Hi, I'm Sepehr Eghdami 👋
+# Hi, I'm Amirarzhang Eghdami 👋
 
 Backend engineer who ships production AI/LLM systems. I build backend services with Kotlin/Ktor and Python, and I bring LLMs (RAG, agentic workflows, local model deployment) into real production environments — not just prototypes.
 
